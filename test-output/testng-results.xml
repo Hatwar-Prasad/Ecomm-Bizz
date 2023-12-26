@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-22T20:19:20 IST" name="Default suite" finished-at="2023-12-22T20:20:41 IST" duration-ms="81311">
+    <groups>
+    </groups>
+    <test started-at="2023-12-22T20:19:20 IST" name="Default test" finished-at="2023-12-22T20:20:41 IST" duration-ms="81311">
+      <class name="testPages.TestCreateAccountPage">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:19:22 IST" name="lounchBrowser" finished-at="2023-12-22T20:19:30 IST" duration-ms="8468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method signature="testCreateAccount_Homepage(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:19:30 IST" name="testCreateAccount_Homepage" data-provider="getaccData" finished-at="2023-12-22T20:19:47 IST" duration-ms="16685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Varma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ramvarma@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ramvarma@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccount_Homepage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:19:47 IST" name="closeBrowser" finished-at="2023-12-22T20:19:51 IST" duration-ms="4455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:19:51 IST" name="lounchBrowser" finished-at="2023-12-22T20:19:56 IST" duration-ms="4593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method signature="testCreateAccount_Homepage(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:19:56 IST" name="testCreateAccount_Homepage" data-provider="getaccData" finished-at="2023-12-22T20:20:11 IST" duration-ms="15707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bob]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Builder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bobBuilder@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bobbuilder@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccount_Homepage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:20:11 IST" name="closeBrowser" finished-at="2023-12-22T20:20:16 IST" duration-ms="4420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:20:16 IST" name="lounchBrowser" finished-at="2023-12-22T20:20:21 IST" duration-ms="4711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method signature="testCreateAccount_Homepage(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:20:21 IST" name="testCreateAccount_Homepage" data-provider="getaccData" finished-at="2023-12-22T20:20:37 IST" duration-ms="16117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shyam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[warma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shyamwarma@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[shyamwarma@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccount_Homepage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPages.TestCreateAccountPage@1ffaf86]" started-at="2023-12-22T20:20:37 IST" name="closeBrowser" finished-at="2023-12-22T20:20:41 IST" duration-ms="4374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPages.TestCreateAccountPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
